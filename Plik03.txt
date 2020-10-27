@@ -7,3 +7,4 @@ Uproszczenie interfejsu graficznego
 easierApp
 Zmiana09
 ZmianaRemote
+Zmiana13
